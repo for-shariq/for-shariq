@@ -1,15 +1,7 @@
-- 👋 Hi, I’m @for-shariq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 for-shariq/for-shariq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
 👋 Hi, I’m Shariq, a full stack developer. <br/>
 Often interested in Architecting, developing applications. 
 
@@ -52,3 +44,9 @@ Often interested in Architecting, developing applications.
 <code><img title="Python" alt="Python" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img title="Java" alt="Java" height="30" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
 <code><img title="Android" alt="Android" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+
+
+-- 👀 I’m interested in ... code, data structure, service oriented architecture, drawing
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... email, linkedin
