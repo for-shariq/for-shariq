@@ -31,3 +31,9 @@ Often interested in Architecting, developing applications.
 | ----------------------------------------------------------------------------------- | ------------ |
 | [YouTube](https://www.youtube.com/channel/UC0D04Uv93btn64Yjvof5K7w)                 | Professional |
 </details>
+
+💬 Get in touch:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariqnasir/)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=for-shariq&count_private=true&include_all_commits=true&show_icons=true&theme=vue)
