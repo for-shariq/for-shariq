@@ -28,8 +28,6 @@ Often interested in Architecting, developing applications.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariqnasir/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=for-shariq&count_private=true&include_all_commits=true&show_icons=true&theme=vue)
-
 #### Languages & Tools
 <code><img title=".NET" alt=".NET" height="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
 <code><img title="Azure" alt="Azure" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
